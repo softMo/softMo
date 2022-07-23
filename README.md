@@ -1,13 +1,11 @@
 <!--  average MKDWN git user  -->
-### heading
-### heading1
+### MD syntax for learning purposes
 ### heading2
 ### heading3
 ### heading4
 ### heading5
 ### heading6
 ### heading7
-### heading8
 ---
 * making
 + unnorder
